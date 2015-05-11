@@ -1,4 +1,4 @@
-# Diabetes blockbuster brands 2014 and 2020
+# Diabetes blockbuster brands
 
 Visualization of FirstWord Lists: [Blockbuster diabetes drugs 2014 and 2020](http://www.firstwordpharma.com/node/1282421#axzz3ZoYrDX18)
 
